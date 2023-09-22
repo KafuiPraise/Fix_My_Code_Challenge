@@ -11,7 +11,7 @@ with, others of which I was not. The specific list of projects contained follows
 * [0x00. Fix my code](./0x00-challenge)
 
 ## Author🖊️:
- **[Matilda Dogbatsey](https://twitter.com/kafuipraise)** <[kafuipraise] https://github.com/kafuipraise)>
+ **[Matilda Dogbatsey](https://twitter.com/kafui_praise)** <[KafuiPraise](https://github.com/KafuiPraise)>
 
 ## Acknowledgements :pray:
 
